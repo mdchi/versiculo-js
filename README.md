@@ -1,1 +1,1 @@
-# Versículo aleatorio con js
+Versículo aleatorio con js
