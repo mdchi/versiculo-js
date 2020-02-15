@@ -24,11 +24,11 @@ function dame_avatar_aleatorio ( $avatares )
      * @var array
      */
     $imagen = array_rand(array_flip([
-        'perro.jpg',
-        'gato.jpg',
-        'pez.jpg',
-        'puercoespin.jpg',
-        'tiranosaurio.jpg'
+        'https://marianodamianch.github.io/versiculo/jpg/001.jpg',
+        'https://marianodamianch.github.io/versiculo/jpg/002.jpg',
+        'https://marianodamianch.github.io/versiculo/jpg/003.jpg',
+        'https://marianodamianch.github.io/versiculo/jpg/004.jpg',
+        'https://marianodamianch.github.io/versiculo/jpg/005.jpg'
     ]));
 
     /**
